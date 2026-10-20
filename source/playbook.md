@@ -2,7 +2,7 @@
 title: "AI Safety Playbook for Small Businesses"
 subtitle: "A free, practical guide to using AI tools safely, with templates you can copy"
 author: "Emmanuel Diserbeau"
-version: "Version 1.0 (draft), October 2026"
+version: "Version 1.0, October 2026"
 license: "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)"
 ---
 
@@ -10,7 +10,7 @@ license: "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)"
 
 _A free, practical guide to using AI tools safely, with templates you can copy._
 
-By Emmanuel Diserbeau · Version 1.0 (draft) · October 2026
+By Emmanuel Diserbeau · Version 1.0 · October 2026
 
 > **Not legal advice.** This playbook is general guidance for small businesses. It is not legal, security, or compliance advice. Laws differ by state, country, and industry. If you handle health, financial, children's, or government data, or you work in a regulated industry, talk to a qualified lawyer or advisor before you finalize your policy. The policy template in this playbook is a generic starting point. It is not the policy of any specific company.
 
@@ -349,4 +349,4 @@ These free, well-known resources go deeper. All links were checked in October 20
 
 ---
 
-_AI Safety Playbook for Small Businesses, v1.0 (draft), by Emmanuel Diserbeau. Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). You may share and adapt this material for any purpose, including commercially, with attribution to Emmanuel Diserbeau. Not legal advice._
+_AI Safety Playbook for Small Businesses, v1.0, by Emmanuel Diserbeau. Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). You may share and adapt this material for any purpose, including commercially, with attribution to Emmanuel Diserbeau. Not legal advice._
