@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="AI Safety Playbook">
+  <rect width="64" height="64" rx="14" fill="#0F5C6E"/>
+  <path d="M32 11l17 6v12c0 11-7.3 19.6-17 23-9.7-3.4-17-12-17-23V17z" fill="#fff"/>
+  <path d="M24 32.5l6 6 11-12" fill="none" stroke="#0F5C6E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
